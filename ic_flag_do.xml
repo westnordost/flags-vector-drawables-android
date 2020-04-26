@@ -1,0 +1,22 @@
+<!-- This is the civil ensign, which does not have the national coat of arms in the centre -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="240dp"
+    android:height="160dp"
+    android:viewportWidth="750"
+    android:viewportHeight="500">
+  <path
+      android:pathData="M0,0h750v500H0z"
+      android:fillColor="#fff"/>
+  <path
+      android:pathData="M0,0h325v200H0z"
+      android:fillColor="#002d62"/>
+  <path
+      android:pathData="M0,300h325v200H0z"
+      android:fillColor="#ce1126"/>
+  <path
+      android:pathData="M425,300h325v200H425z"
+      android:fillColor="#002d62"/>
+  <path
+      android:pathData="M425,0h325v200H425z"
+      android:fillColor="#ce1126"/>
+</vector>

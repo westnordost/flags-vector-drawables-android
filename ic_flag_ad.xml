@@ -1,0 +1,16 @@
+<!-- This is the civil flag, which does not have the national coat of arms in the centre -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="240dp"
+    android:height="168dp"
+    android:viewportWidth="1000"
+    android:viewportHeight="700">
+  <path
+      android:pathData="M0,0h1000v700H0z"
+      android:fillColor="#d0103a"/>
+  <path
+      android:pathData="M0,0h680v700H0z"
+      android:fillColor="#fedf00"/>
+  <path
+      android:pathData="M0,0h320v700H0z"
+      android:fillColor="#0018a8"/>
+</vector>
