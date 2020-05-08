@@ -1,0 +1,86 @@
+AF      redrew using https://commons.wikimedia.org/wiki/File:National_emblem_of_Afghanistan.svg from 14:16, 19 August 2018
+        (has much cleaner geometry than https://commons.wikimedia.org/wiki/File:Flag_of_Afghanistan.svg from 00:08, 11 February 2019 )
+        and cleaned geometry even more without changing really simplifying geometry much
+        grains are not inverted as on the version on wikimedia but more like shown in this version here (also makes the geometry easier):
+        00:08, 11 February 2019
+
+BN      https://commons.wikimedia.org/wiki/File:Flag_of_Brunei.svg from 21:00, 13 July 2014
+        simplified ways, combined paths, unlinked clones
+
+BT      https://commons.wikimedia.org/wiki/File:Flag_of_Bhutan.svg from 17:04, 19 August 2019
+        combined some ways, changed stroke width for better visibility of dragon 
+
+BZ      https://commons.wikimedia.org/wiki/File:Flag_of_Belize.svg from 02:03, 28 January 2020
+        simplified some ways
+
+CY      https://commons.wikimedia.org/wiki/File:Flag_of_Cyprus.svg 18:14, 25 November 2019
+        simplified country outline, combined paths
+
+DO      https://commons.wikimedia.org/wiki/File:Flag_of_the_Dominican_Republic.svg from 20:06, 14 February 2019
+        removed tiny details and simplified paths
+
+EC      https://commons.wikimedia.org/wiki/File:Flag_of_Ecuador.svg from 20:40, 20 July 2014
+        removed many small details not visible below ~500px width , i.e. replaced the ship with a silhoutte of a ship, combined/merged paths
+
+EG      https://commons.wikimedia.org/wiki/File:Flag_of_Egypt.svg
+        simplified paths
+
+ES      https://commons.wikimedia.org/wiki/File:Flag_of_Spain.svg from 09:14, 22 September 2014
+        removed some tiny details
+
+HR      https://commons.wikimedia.org/wiki/File:Flag_of_Croatia.svg from 22:51, 6 November 2011
+        used the older version from 22:51, 6 November 2011 because the new is huge
+
+IM      https://commons.wikimedia.org/wiki/File:Flag_of_the_Isle_of_Mann.svg
+        simplified paths
+
+KZ      https://commons.wikimedia.org/wiki/File:Flag_of_Kazakhstan.svg 18:29, 23 August 2019
+        slightly simplified some paths
+
+LI      https://commons.wikimedia.org/wiki/File:Flag_of_Liechtenstein.svg from 22:52, 24 August 2011
+        simplified the crown / better visibility for lower resolution
+
+LK      https://commons.wikimedia.org/wiki/File:Flag_of_Sri_Lanka.svg
+        redrawn strokes and simplified
+
+ME      https://commons.wikimedia.org/wiki/File:Flag_of_Montenegro.svg from 16:03, 31 May 2013
+        hugely simplified paths and made the eagle appear sharper when the flag is displayed in lower resolution
+
+MX      https://commons.wikimedia.org/wiki/File:Flag_of_Mexico.svg from 20:16, 4 September 2019
+        simplified some geometry
+
+MP      https://commons.wikimedia.org/wiki/File:Flag_of_the_Northern_Mariana_Islands.svg from 04:04, 20 April 2020
+        reduced small details a lot
+
+NF      https://commons.wikimedia.org/wiki/File:Flag_of_Norfolk_Island.svg from 19:16, 10 May 2014
+        simplified path
+
+NI      https://commons.wikimedia.org/wiki/File:Flag_of_Nicaragua.svg from 18:04, 15 February 2019
+        simplified and combined paths, make coat of arms visible better at lower resolution
+
+OM      https://commons.wikimedia.org/wiki/File:Flag_of_Oman.svg from 13:57, 10 September 2019
+        simplified coat of arms
+
+PY      https://commons.wikimedia.org/wiki/File:Flag_of_Paraguay.svg from 21:46, 9 September 2019
+        simplified path
+
+SA      https://commons.wikimedia.org/wiki/File:Flag_of_Saudi_Arabia.svg from 21:08, 23 April 2020
+        simplified path
+
+TM      https://commons.wikimedia.org/wiki/File:Flag_of_Turkmenistan.svg from 09:09, 29 January 2019
+        combined paths of same colors, no geometry changes
+
+US-CA   https://commons.wikimedia.org/wiki/File:Flag_of_California.svg from 19:22, 24 April 2018
+        simplified many ways
+
+US-CT   https://commons.wikimedia.org/wiki/File:Flag_of_Connecticut.svg from 01:21, 24 January 2019
+        simplified geometry and removed garbage geometry
+
+US-NV   https://commons.wikimedia.org/wiki/File:Flag_of_Nevada.svg from 05:30, 19 June 2016
+        simplified geometry and removed garbage geometry
+
+XK      https://commons.wikimedia.org/wiki/File:Flag_of_Kosovo.svg
+        simplified path
+
+ZW      https://en.wikipedia.org/wiki/File:Flag_of_Zimbabwe.svg
+        but completely redrawn, quite similar to the version from 04:40, 26 August 2018

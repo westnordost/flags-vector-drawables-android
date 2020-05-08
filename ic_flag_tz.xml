@@ -10,12 +10,10 @@
       android:pathData="M0,48H72V0z"
       android:fillColor="#00a3dd"/>
   <path
-      android:fillColor="#000"
       android:pathData="M0,48 L72,0"
       android:strokeWidth="19"
       android:strokeColor="#fcd116"/>
   <path
-      android:fillColor="#000"
       android:pathData="M0,48 L72,0"
       android:strokeWidth="13"
       android:strokeColor="#000"/>
