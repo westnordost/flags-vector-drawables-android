@@ -34,6 +34,8 @@ HR      https://commons.wikimedia.org/wiki/File:Flag_of_Croatia.svg from 22:51, 
 IM      https://commons.wikimedia.org/wiki/File:Flag_of_the_Isle_of_Mann.svg
         simplified paths
 
+KI      converted some strokes to paths because of some problem with scaled Android vector drawables
+
 KZ      https://commons.wikimedia.org/wiki/File:Flag_of_Kazakhstan.svg 18:29, 23 August 2019
         slightly simplified some paths
 
@@ -42,6 +44,8 @@ LI      https://commons.wikimedia.org/wiki/File:Flag_of_Liechtenstein.svg from 2
 
 LK      https://commons.wikimedia.org/wiki/File:Flag_of_Sri_Lanka.svg
         redrawn strokes and simplified
+
+LR      converted some strokes to paths because of some problem with scaled Android vector drawables
 
 ME      https://commons.wikimedia.org/wiki/File:Flag_of_Montenegro.svg from 16:03, 31 May 2013
         hugely simplified paths and made the eagle appear sharper when the flag is displayed in lower resolution
@@ -61,6 +65,8 @@ NI      https://commons.wikimedia.org/wiki/File:Flag_of_Nicaragua.svg from 18:04
 OM      https://commons.wikimedia.org/wiki/File:Flag_of_Oman.svg from 13:57, 10 September 2019
         simplified coat of arms
 
+PR      converted some strokes to paths because of some problem with scaled Android vector drawables
+
 PY      https://commons.wikimedia.org/wiki/File:Flag_of_Paraguay.svg from 21:46, 9 September 2019
         simplified path
 
@@ -69,6 +75,9 @@ SA      https://commons.wikimedia.org/wiki/File:Flag_of_Saudi_Arabia.svg from 21
 
 TM      https://commons.wikimedia.org/wiki/File:Flag_of_Turkmenistan.svg from 09:09, 29 January 2019
         combined paths of same colors, no geometry changes
+
+UM
+US      converted some strokes to paths because of some problem with scaled Android vector drawables
 
 US-CA   https://commons.wikimedia.org/wiki/File:Flag_of_California.svg from 19:22, 24 April 2018
         simplified many ways
