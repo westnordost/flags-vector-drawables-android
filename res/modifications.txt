@@ -85,6 +85,9 @@ US-CA   https://commons.wikimedia.org/wiki/File:Flag_of_California.svg from 19:2
 US-CT   https://commons.wikimedia.org/wiki/File:Flag_of_Connecticut.svg from 01:21, 24 January 2019
         simplified geometry and removed garbage geometry
 
+US-OH	https://commons.wikimedia.org/wiki/File:Flag_of_Ohio.svg from 17:00, 7 August 2015
+		replaced cloned ways, removed mask
+
 US-NV   https://commons.wikimedia.org/wiki/File:Flag_of_Nevada.svg from 05:30, 19 June 2016
         simplified geometry and removed garbage geometry
 
