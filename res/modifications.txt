@@ -80,7 +80,7 @@ UM
 US      converted some strokes to paths because of some problem with scaled Android vector drawables
 
 US-CA   https://commons.wikimedia.org/wiki/File:Flag_of_California.svg from 19:22, 24 April 2018
-        simplified many ways
+        simplified many paths, especially the fur of the bear
 
 US-CT   https://commons.wikimedia.org/wiki/File:Flag_of_Connecticut.svg from 01:21, 24 January 2019
         simplified geometry and removed garbage geometry
