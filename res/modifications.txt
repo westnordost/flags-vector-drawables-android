@@ -1,9 +1,3 @@
-AF      redrew using https://commons.wikimedia.org/wiki/File:National_emblem_of_Afghanistan.svg from 14:16, 19 August 2018
-        (has much cleaner geometry than https://commons.wikimedia.org/wiki/File:Flag_of_Afghanistan.svg from 00:08, 11 February 2019 )
-        and cleaned geometry even more without changing really simplifying geometry much
-        grains are not inverted as on the version on wikimedia but more like shown in this version here (also makes the geometry easier):
-        00:08, 11 February 2019
-
 BN      https://commons.wikimedia.org/wiki/File:Flag_of_Brunei.svg from 21:00, 13 July 2014
         simplified ways, combined paths, unlinked clones
 
