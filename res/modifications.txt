@@ -88,6 +88,9 @@ US-CT   https://commons.wikimedia.org/wiki/File:Flag_of_Connecticut.svg from 01:
 US-OH	https://commons.wikimedia.org/wiki/File:Flag_of_Ohio.svg from 17:00, 7 August 2015
 		replaced cloned ways, removed mask
 
+US-MS	https://commons.wikimedia.org/wiki/File:Flag_of_Mississippi.svg, from 24 August 2021
+		simplified paths
+
 US-NV   https://commons.wikimedia.org/wiki/File:Flag_of_Nevada.svg from 05:30, 19 June 2016
         simplified geometry and removed garbage geometry
 
